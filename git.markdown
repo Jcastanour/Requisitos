@@ -22,6 +22,9 @@ git commit -m ""
 ### Usar convenciones para los nombres dentro del commit
 https://www.conventionalcommits.org/en/v1.0.0/
 
+## Revisar quien ha hecho commit
+- git log
+- git log -- graph --decorate - all  --oneline 
 
 
 
