@@ -28,7 +28,9 @@ https://www.conventionalcommits.org/en/v1.0.0/
 
 ## git switch
 git switch -c "" (si la rama no existe la crea)
-git switch main
+git switch main --> cambiar entre ramas
+
+
 
 
 
