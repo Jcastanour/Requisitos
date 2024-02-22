@@ -26,5 +26,12 @@ https://www.conventionalcommits.org/en/v1.0.0/
 - git log
 - git log -- graph --decorate - all  --oneline 
 
+## git switch
+git switch -c "" (si la rama no existe la crea)
+git switch main
+
+
+
+
 
 
